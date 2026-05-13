@@ -1,0 +1,26 @@
+# Hire Me configuration - Similar to FUNDING.yml
+# Add your hiring/contact information below
+
+# LinkedIn profile URL
+linkedin: # https://linkedin.com/in/yourprofile
+
+# Email address for hire inquiries
+email: # your.email@example.com
+
+# Personal website/portfolio URL
+website: # https://yourportfolio.com
+
+# Calendly or scheduling link
+calendly: # https://calendly.com/yourname
+
+# Upwork profile
+upwork: # https://upwork.com/fl/yourprofile
+
+# Toptal profile
+toptal: # https://toptal.com/resume/yourname
+
+# Contact form URL
+contact_form: # https://yoursite.com/contact
+
+# Custom hire me URLs
+custom: # Replace with up to 4 custom URLs e.g., ['link1', 'link2']
