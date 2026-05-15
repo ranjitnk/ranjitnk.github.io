@@ -1,9 +1,0 @@
-Place your resume PDF here, renamed to: resume.pdf
-
-This file will be linked from the portfolio "Download Resume" button.
-
-Tips for your resume PDF:
-- Export from Word / Google Docs as PDF
-- Max 2 pages for senior roles
-- Filename: resume.pdf (exact case)
-- Keep file size under 5MB
