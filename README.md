@@ -20,6 +20,6 @@ You can view the fully interactive, responsive portfolio website directly at:
 
 ## 🛠 Core Expertise
 * **Agentic AI & LLMs:** GenAI/Agentic routing pipelines, LangGraph, FastAPI, Custom LLM API integrations.
-* **Enterprise RPA Stack:** UiPath (Certified), Automation Anywhere A360, Blue Prism.
+* **Enterprise RPA Stack:** UiPath (Certified), Automation Anywhere A360, AI-Python HyperAutomation.
 * **Intelligent Document Processing (IDP):** ABBYY , AI Fabric, advanced OCR pipelines.
-* **Architecture:** HIPAA-compliant systems, Oracle Fusion RPA integrations, cloud-native deployments.
+* **Architecture:** HIPAA-compliant systems, Oracle Fusion RPA integrations, cloud-native deployments, CICD pipeline 
